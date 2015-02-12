@@ -4,6 +4,8 @@ Here are some more notes in the readme file.
 
 And some more notes.
 
-GREEN FEATURE CHANGES
+THIS IS FOR THE RED FEATURE ONLY
 
-MORE GREEN FEATURE CHANGES
+Updated in master branch
+
+Some more MASTER changes
